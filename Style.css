@@ -5,6 +5,10 @@ h1{
 color: white;
 text-align: center;
 }
+h2{
+  color: blue;
+  text-align: center;
+}
 p{
 font-family: Verdana, Geneva, Apple Chancery;
 font-size: 20 px;
