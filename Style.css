@@ -2,11 +2,11 @@ body{
 background-color: #00FA9A;
 }
 h1{
-color: white;
+color: pink;
 text-align: center;
 }
 h2{
-  color: blue;
+  color: black;
   text-align: center;
 }
 ul {
@@ -14,7 +14,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: 0;
-  background-color: gray;
+  background-color: purple;
 }
 li {
   float: left;
